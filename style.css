@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+.lists {
+  list-style: none;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+}
